@@ -41,7 +41,7 @@ git clone https://github.com/iesdcontest/iesdcontest2024_demo_example_deployment
 ```
 将在服务器上训练完成的`.tflite`模型文件，更名为`af_detect.tflite`，放置于
 ```commandline
-./tflite-micro/tensorflow/lite/micro/models/
+./tensorflow/lite/micro/models/
 ```
 
 ## 1.3 环境配置
